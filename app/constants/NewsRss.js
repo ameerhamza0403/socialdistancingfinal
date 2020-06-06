@@ -1,0 +1,15 @@
+export default [
+  'https://rss.medicalnewstoday.com/featurednews.xml',
+  'https://tools.cdc.gov/api/v2/resources/media/404952.rss',
+  'https://tools.cdc.gov/api/v2/resources/media/132500.rss',
+  'https://tools.cdc.gov/api/v2/resources/media/403372.rss',
+  'https://tools.cdc.gov/api/v2/resources/media/132036.rss',
+  'https://tools.cdc.gov/api/v2/resources/media/277692.rss',
+  'https://tools.cdc.gov/api/v2/resources/media/277692.rss',
+  'https://www.who.int/rss-feeds/news-english.xml',
+  'https://www.who.int/feeds/entity/hac/en/rss.xml',
+  'https://www.who.int/feeds/entity/csr/don/en/rss.xml',
+  'https://www.who.int/feeds/entity/pmnch/en/rss.xml',
+  'https://www.who.int/feeds/features/en/rss.xml',
+  'https://www.who.int/feeds/entity/medicines/publications/drugalerts/en/rss.xml',
+];
